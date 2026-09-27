@@ -1,0 +1,24 @@
+AI Use Declaration
+Course / Assignment: Lab 02 — Open the Box
+
+Student Name: Karabai Eldos
+
+1. AI Tools Utilized
+
+Generative AI (Gemini / ChatGPT)
+
+2. Scope and Purpose of AI Usage
+
+Verifying Independent Analysis: I independently executed the notebook, analyzed the attention heatmaps 
+(such as identifying the Layer 4, Head 11 "previous token" pattern), and evaluated the token-per-character ratios. 
+I used the AI strictly as a sounding board to verify that my technical conclusions were correct.
+
+Refining Written Explanations: I formulated the core ideas for my answers and used the AI to polish my drafts into concise,
+grammatically correct English for the final markdown cells.
+
+Concept Clarification: I briefly queried the AI to double-check the mathematical distinctions between
+ Temperature and Top-p filtering before writing my final summary.
+
+3. Statement of Integrity
+I conducted all code execution, hyperparameter adjustments, data interpretation, and core problem-solving
+ independently. The AI was used exclusively as a proofreader and a supplementary check to validate my own findings.
